@@ -1,0 +1,87 @@
+1. what is HTML & CSS?
+ANS:
+  HTML:
+   in my explaination is HTML IS a programming language .HTML is a used to create web page.
+  if you intrested you can create whole game . its real if you believe the chrome its have no internet dragon game 
+  its completed by the HTML you can add image,button,navigation,etc...
+   example:
+           <img id="dragon" src="dragonimage"></img>
+  
+  CSS:
+     in my explaination CSS is designing language. its styling the html elements that means.example,the chrome no internet 
+     dragon game is a play only black and white . if you intrested using id of dragon to color the orange and 
+     red color for the dragon.
+     example:
+              #dragon:
+                      height:30px;
+                      width:40px;
+                      color:orange;
+                      backgroundcolor:red;
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+2.what is bootstrap tell about it?
+ANS:
+  bootstrap:
+       in my explaination bootstrap is  similar of  CSS using style your web page.but its reduce the work user because the bootstrap is already create the
+       so many designs in bootstrp its mainly used for students easily do copy paste method easy in this generation. because copy the design and impress your friends 
+       use this bootstrap in your web page.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+3.insert your friends detail in table ?
+Ans:
+    in html easily create table because every one create in html so many tags in HTML you use the tag to create your web page
+    in table  you use the table tag <table> and you set the table header you use <th>,<td>cell spevify,<tr>row specify etc.
+    so many tags in table if you need you which style you need you can insert.
+code: 
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Table creation</title>
+    </head>
+    <style>
+        table,th,td {border: 1px solid gold;}
+    </style>
+    <body>
+        <table>
+            <tr>
+                <th>ANANDFRIEND</th>
+            </tr>
+            <tr>
+                <td>Raja</td>
+            </tr>
+            <tr>
+                <td>Ranjith</td>
+            </tr>
+        </table>   
+    </body>
+    </html> 
+
+---------------------------------------------------------------------------------------------------------------------------------------- 
+4. code:
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <title>Table creation</title>
+    </head>
+    <style>
+        table,th,td {color: blue; border: 1px solid gold;}
+        
+    </style>
+    <body>
+        <table>
+            <tr>
+                <th>ANANDFRIEND</th><th>first-name</th><th>last-name</th><th>age</th><th>email-id</th>
+            </tr>
+            <tr>
+            <td>Raja</td><td>kasthuri</td><td>Raja</td><td>22</td><td>raja@gmail.com</td>
+            </tr>
+            <tr>
+                <td>Ranjith</td><td>Ranjith</td><td>kumar</td><td>23</td><td>ranjith@gmail.com</td>
+            </tr>
+        </table>   
+    </body>
+    </html>  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
